@@ -1,0 +1,75 @@
+body{
+    width: 900px;
+    height: 900px;
+    background-color: yellow;
+}
+.contenedor1{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    background-color: blueviolet;
+}
+.caja11{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+}
+.caja12{
+    width: 150px;
+    height: 50px;
+    background-color: blue; 
+}
+.caja13{
+    width: 150px;
+    height: 50px;
+    background-color: green; 
+}
+.contenedor2{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: brown;
+}
+.caja21{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+}
+.caja22{
+    width: 150px;
+    height: 50px;
+    background-color: blue; 
+}
+.caja23{
+    width: 150px;
+    height: 50px;
+    background-color: green; 
+}
+.contenedor3{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aquamarine;
+}
+.caja31{
+    width: 150px;
+    height: 50px;
+    background-color: red;
+}
+.caja32{
+    width: 150px;
+    height: 50px;
+    background-color: blue; 
+}
+.caja33{
+    width: 150px;
+    height: 50px;
+    background-color: green; 
+}
